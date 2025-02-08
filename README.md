@@ -28,7 +28,7 @@ pip install cryptography
 ### Download Passman
 Clone the repository or download the script manually:
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Passman.git
+git clone https://github.com/LambriniWorks/Passman.git
 cd Passman
 ```
 
@@ -98,7 +98,7 @@ If you think Passman is worth it, share it.
 - Post it on Reddit, Hacker News, or anywhere people care about security
 - Contribute if you want to improve it
 
-GitHub Repo: [https://github.com/YOUR_GITHUB_USERNAME/Passman](https://github.com/YOUR_GITHUB_USERNAME/Passman)
+GitHub Repo: [https://github.com/LambriniWorks/Passman](https://github.com/LambriniWorks/Passman)
 
 Passman - The Last Password Manager You'll Ever Need.
 
